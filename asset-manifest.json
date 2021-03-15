@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/maz-game/static/js/main.b1b8e5c2.chunk.js",
+    "main.js.map": "/maz-game/static/js/main.b1b8e5c2.chunk.js.map",
+    "runtime-main.js": "/maz-game/static/js/runtime-main.a633e9d7.js",
+    "runtime-main.js.map": "/maz-game/static/js/runtime-main.a633e9d7.js.map",
+    "static/js/2.6908aba7.chunk.js": "/maz-game/static/js/2.6908aba7.chunk.js",
+    "static/js/2.6908aba7.chunk.js.map": "/maz-game/static/js/2.6908aba7.chunk.js.map",
+    "static/js/3.a87810cf.chunk.js": "/maz-game/static/js/3.a87810cf.chunk.js",
+    "static/js/3.a87810cf.chunk.js.map": "/maz-game/static/js/3.a87810cf.chunk.js.map",
+    "index.html": "/maz-game/index.html",
+    "static/js/2.6908aba7.chunk.js.LICENSE.txt": "/maz-game/static/js/2.6908aba7.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/maz-game/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/maz-game/static/media/gamepad.c9269ef5.svg",
+    "static/media/logo.9b6b8655.svg": "/maz-game/static/media/logo.9b6b8655.svg",
+    "static/media/nintendo.f579be04.svg": "/maz-game/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/maz-game/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/maz-game/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/maz-game/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a633e9d7.js",
+    "static/js/2.6908aba7.chunk.js",
+    "static/js/main.b1b8e5c2.chunk.js"
+  ]
+}
