@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/maz-game/static/js/main.b1b8e5c2.chunk.js",
-    "main.js.map": "/maz-game/static/js/main.b1b8e5c2.chunk.js.map",
+    "main.js": "/maz-game/static/js/main.760a34f0.chunk.js",
+    "main.js.map": "/maz-game/static/js/main.760a34f0.chunk.js.map",
     "runtime-main.js": "/maz-game/static/js/runtime-main.a633e9d7.js",
     "runtime-main.js.map": "/maz-game/static/js/runtime-main.a633e9d7.js.map",
     "static/js/2.6908aba7.chunk.js": "/maz-game/static/js/2.6908aba7.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.a633e9d7.js",
     "static/js/2.6908aba7.chunk.js",
-    "static/js/main.b1b8e5c2.chunk.js"
+    "static/js/main.760a34f0.chunk.js"
   ]
 }
